@@ -2,7 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.1.4" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="isMaterialDesign" value="false" />
     <option name="accentColor" value="64ffda" />
     <option name="useMaterialIcons" value="false" />
     <option name="darkTitleBar" value="true" />
