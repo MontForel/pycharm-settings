@@ -1,0 +1,30 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/facebook-webhook/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/fb-webhook/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/google-analytics-v4/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/imdb/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/play-ground/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/web-crawling/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/facebook-webhook/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/fb-webhook/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/google-analytics-v4/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/web-crawling/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/facebook-webhook/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/fb-webhook/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/google-analytics-v4/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/web-crawling/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
