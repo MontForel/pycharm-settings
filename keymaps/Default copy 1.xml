@@ -2,7 +2,6 @@
   <action id="Console.Execute.Multiline">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
-  <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt enter" />
