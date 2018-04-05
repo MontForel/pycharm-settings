@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="view_ids" type="JSON" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
